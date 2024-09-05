@@ -1,3 +1,4 @@
+[<img src="https://github.com/user-attachments/assets/dbac265d-e511-4566-8ba1-abde4385f2dd">](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-shiny-python&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
 
 # Interactive Dashboard with Python – Streamlit
 
